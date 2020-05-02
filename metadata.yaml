@@ -1,5 +1,8 @@
 _repo: Az-elatkozott-csalad-Regeny_61912
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61912-h/images/cover.jpg
 creator:
   author:
     agent_name: Jókai, Mór
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
     - https://fi.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61912#Az-elatkozott-csalad-Regeny
 gutenberg_issued: '2020-04-24'
 gutenberg_type: Text
 identifiers:
